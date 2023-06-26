@@ -1,1 +1,1 @@
-# A social enterprise for cloud/devops engineers to collaborate on cloud/devops real life projects.
+# A social enterprise for DevOps engineers to collaborate on Cloud/DevOps real-life projects.
